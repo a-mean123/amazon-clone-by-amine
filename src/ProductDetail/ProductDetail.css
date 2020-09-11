@@ -1,0 +1,40 @@
+
+
+.detail__title{
+
+
+    margin-right: 10px;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    border-bottom: 1px solid lightgray;
+}
+
+.detail__image{
+
+
+    width: 100%;
+}
+
+
+.product__ratingDetail{
+    display: flex;
+}
+
+.product__ratingDetail>p{
+    color: #f0c14b;
+}
+
+
+
+.basket__buttonDetail{
+    background-color: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    width: 40%;
+  
+    margin-right: auto;
+    margin-bottom: 15px;
+}
